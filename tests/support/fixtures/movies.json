@@ -1,0 +1,122 @@
+{
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Após um surto misterioso transformar grande parte da população em zumbis, um grupo de sobreviventes se refugia em um shopping center enquanto luta para permanecer vivo e encontrar uma saída.",
+    "release_year": 2004,
+    "company": "Universal Pictures",
+    "cover": "/images/movies/madrugada_dos_mortos.jpg",
+    "featured": false
+  },
+  "guerra_mundial_z": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador das Nações Unidas viaja pelo mundo para descobrir a origem de uma pandemia que transforma pessoas em criaturas violentas e coloca a humanidade à beira da extinção.",
+    "release_year": 2013,
+    "company": "Paramount Pictures",
+    "cover": "/images/movies/guerra_mundial_z.jpg",
+    "featured": false
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após despertar de um coma, um homem encontra Londres devastada por um vírus altamente contagioso que transforma pessoas em criaturas extremamente agressivas.",
+    "release_year": 2002,
+    "company": "Fox Searchlight Pictures",
+    "cover": "/images/movies/exterminio.jpg",
+    "featured": false
+  },
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "Meses após o surto inicial, uma tentativa de reconstruir a sociedade fracassa quando o vírus volta a se espalhar, mergulhando a cidade novamente no caos.",
+    "release_year": 2007,
+    "company": "Fox Atomic",
+    "cover": "/images/movies/exterminio_2.jpg",
+    "featured": false
+  },
+  "create": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um vendedor comum tenta salvar seus amigos e familiares durante um apocalipse zumbi, misturando humor, ação e momentos emocionantes.",
+    "release_year": 2004,
+    "company": "Universal Pictures",
+    "cover": "/images/movies/todo_mundo_quase_morto.jpg",
+    "featured": false
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Quatro sobreviventes cruzam os Estados Unidos devastados por zumbis, enfrentando perigos e criando laços enquanto procuram um lugar seguro.",
+    "release_year": 2009,
+    "company": "Columbia Pictures",
+    "cover": "/images/movies/zumbilandia.jpg",
+    "featured": false
+  },
+  "zumbilandia_atire_duas_vezes": {
+    "title": "Zumbilândia: Atire Duas Vezes",
+    "overview": "Os sobreviventes retornam em uma nova jornada pelo país enfrentando zumbis mais evoluídos e desafios inesperados enquanto tentam manter o grupo unido.",
+    "release_year": 2019,
+    "company": "Columbia Pictures",
+    "cover": "/images/movies/zumbilandia_atire_duas_vezes.jpg",
+    "featured": false
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Durante uma viagem de trem pela Coreia do Sul, passageiros precisam lutar pela sobrevivência quando um surto zumbi se espalha rapidamente pelo país.",
+    "release_year": 2016,
+    "company": "Next Entertainment World",
+    "cover": "/images/movies/invasao_zumbi.jpg",
+    "featured": false
+  },
+  "rec": {
+    "title": "[REC]",
+    "overview": "Uma repórter e seu cinegrafista acompanham uma equipe de bombeiros em um chamado de rotina, mas acabam presos em um prédio onde uma infecção transforma moradores em criaturas violentas.",
+    "release_year": 2007,
+    "company": "Filmax",
+    "cover": "/images/movies/rec.jpg",
+    "featured": false
+  },
+  "eu_sou_a_lenda": {
+    "title": "Eu Sou a Lenda",
+    "overview": "O último sobrevivente conhecido em Nova York tenta encontrar a cura para um vírus devastador enquanto enfrenta criaturas que dominam a cidade durante a noite.",
+    "release_year": 2007,
+    "company": "Warner Bros. Pictures",
+    "cover": "/images/movies/eu_sou_a_lenda.jpg",
+    "featured": false
+  },
+  "vivo_ou_morto": {
+    "title": "Vivo ou Morto",
+    "overview": "Um jovem fica isolado em seu apartamento durante um apocalipse zumbi e precisa usar toda a sua criatividade para sobreviver até conseguir ajuda.",
+    "release_year": 2020,
+    "company": "Lotte Entertainment",
+    "cover": "/images/movies/vivo_ou_morto.jpg",
+    "featured": false
+  },
+  "cargo": {
+    "title": "Cargo",
+    "overview": "Em uma Austrália devastada por uma epidemia, um pai infectado busca desesperadamente um lugar seguro para proteger sua filha antes que o tempo acabe.",
+    "release_year": 2017,
+    "company": "Netflix",
+    "cover": "/images/movies/cargo.jpg",
+    "featured": false
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Estranhos se refugiam em uma casa isolada para escapar de mortos que inexplicavelmente voltaram à vida e atacam qualquer pessoa viva.",
+    "release_year": 1968,
+    "company": "Continental Distributing",
+    "cover": "/images/movies/a_noite_dos_mortos_vivos.jpg",
+    "featured": false
+  },
+  "dia_dos_mortos": {
+    "title": "Dia dos Mortos",
+    "overview": "Cientistas e militares vivem em um bunker subterrâneo enquanto tentam encontrar uma solução para um mundo dominado por zumbis.",
+    "release_year": 1985,
+    "company": "United Film Distribution Company",
+    "cover": "/images/movies/dia_dos_mortos.jpg",
+    "featured": false
+  },
+  "planeta_terror": {
+    "title": "Planeta Terror",
+    "overview": "Uma pequena cidade é tomada por uma infecção que transforma pessoas em monstros, obrigando um grupo improvável de sobreviventes a enfrentar o caos.",
+    "release_year": 2007,
+    "company": "Dimension Films",
+    "cover": "/images/movies/planeta_terror.jpg",
+    "featured": false
+  }
+}
